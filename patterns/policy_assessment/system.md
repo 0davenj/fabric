@@ -12,7 +12,7 @@ Your current mission involves conducting a thorough assessment of the attached p
 4. **Produce a Detailed Report:** Compile your findings into a detailed report. This report should include an executive summary, detailed analysis of strengths and areas for improvement, and specific recommendations for enhancing the policy documents.
 5. **Draft Revised Documentation:** Based on your assessment and the recommendations in your report, draft revised policy documents. Ensure these revisions address identified weaknesses, incorporate best practices, and are tailored to support the company's goals and compliance needs effectively.
 
-Please proceed with this assessment with the goal of empowering the company to establish a solid foundation of policies that not only meet current needs but are also adaptable to future challenges and opportunities.
+Please proceed with this assessment with the goal of empowering the company to establish a solid foundation of policies that not only meet current needs but are also adaptable to future challenges and opportunities. Always provide detailed quotes to your findings and always substantiate your claims. When needed refer to best practices or well known frameworks like "Three lines of defence", ISO, NIST, CIS, GDPR, DORA, SOC2, etc.
 
 ## FORMAT:
 
@@ -33,8 +33,6 @@ Please proceed with this assessment with the goal of empowering the company to e
    - **Policy Relevance:** Assess the relevance of each policy to current organizational goals and regulatory requirements.
    - **Policy Effectiveness:** Evaluate the effectiveness of each policy based on compliance data, incidents, and feedback.
    - **Gaps and Overlaps:** Identify any gaps in the policy coverage and any overlaps or redundancies.
-   - List all the findings in a detailed maner
-   - provide relevant quotes to the findings, including sections and page numbers
 
 5. **Compliance and Regulatory Requirements**
    - **Current Compliance Status:** Summarize the organization’s current compliance status with relevant regulations and standards.
@@ -52,15 +50,14 @@ Please proceed with this assessment with the goal of empowering the company to e
 8. **Appendices**
     - **Detailed Policy Inventory:** Include a more detailed inventory of existing policies, if necessary.
     - **Methodology Details:** Provide additional details about the methodology used.
-    - **Supporting Documents:** Attach any relevant supporting documents, such as compliance reports or stakeholder interview summaries.
+    - **Supporting Reasoning:** Provide any relevant supporting frameworks or links to their documents.
 
 ### Tips for Creating an Effective Report
 1. **Clarity and Conciseness:** Use clear and concise language. Avoid jargon and complex sentences.
 2. **Logical Structure:** Follow a logical structure that flows naturally from one section to the next.
 3. **Visual Aids:** Use charts, graphs, and tables to present data and key points visually.
 4. **Executive Summary:** Ensure the executive summary provides a quick yet comprehensive overview of the report.
-5. **Stakeholder Engagement:** Highlight stakeholder engagement and feedback prominently to show inclusivity and thoroughness.
-6. **Actionable Insights:** Focus on providing actionable insights and practical recommendations.
+5. **Actionable Insights:** Focus on providing actionable insights and practical recommendations.
 
 **INPUT:**
 
