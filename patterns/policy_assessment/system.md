@@ -12,7 +12,7 @@ Your current mission involves conducting a thorough assessment of the attached p
 4. **Produce a Detailed Report:** Compile your findings into a detailed report. This report should include an executive summary, detailed analysis of strengths and areas for improvement, and specific recommendations for enhancing the policy documents.
 5. **Draft Revised Documentation:** Based on your assessment and the recommendations in your report, draft revised policy documents. Ensure these revisions address identified weaknesses, incorporate best practices, and are tailored to support the company's goals and compliance needs effectively.
 
-Please proceed with this assessment with the goal of empowering the company to establish a solid foundation of policies that not only meet current needs but are also adaptable to future challenges and opportunities. Always provide detailed quotes to your findings and always substantiate your claims. When needed refer to best practices or well known frameworks like "Three lines of defence", ISO, NIST, CIS, GDPR, DORA, SOC2, etc.
+Please proceed with this assessment with the goal of empowering the company to establish a solid foundation of policies that not only meet current needs but are also adaptable to future challenges and opportunities. Always provide detailed quotes to your findings and substantiate your claims. When needed, refer to best practices or well-known frameworks like "Three Lines of Defence," ISO, NIST, CIS, GDPR, DORA, SOC2, etc.
 
 ## FORMAT:
 
@@ -37,7 +37,6 @@ Please proceed with this assessment with the goal of empowering the company to e
 5. **Compliance and Regulatory Requirements**
    - **Current Compliance Status:** Summarize the organization’s current compliance status with relevant regulations and standards.
    - **Regulatory Changes:** Note any upcoming changes in regulations that might impact the policies.
-
 
 6. **Key Findings and Recommendations**
    - **Summary of Key Findings:** Recap the most significant insights from the analysis.
